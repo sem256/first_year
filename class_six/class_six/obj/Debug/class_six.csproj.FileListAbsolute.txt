@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\class_six\class_six\bin\Debug\class_six.exe.config
+E:\уроки\прога\visual studio\class_six\class_six\bin\Debug\class_six.exe
+E:\уроки\прога\visual studio\class_six\class_six\bin\Debug\class_six.pdb
+E:\уроки\прога\visual studio\class_six\class_six\obj\Debug\class_six.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\class_six\class_six\obj\Debug\class_six.exe
+E:\уроки\прога\visual studio\class_six\class_six\obj\Debug\class_six.pdb

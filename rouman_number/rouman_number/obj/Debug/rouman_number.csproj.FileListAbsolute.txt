@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\rouman_number\rouman_number\bin\Debug\rouman_number.exe.config
+E:\уроки\прога\visual studio\rouman_number\rouman_number\bin\Debug\rouman_number.exe
+E:\уроки\прога\visual studio\rouman_number\rouman_number\bin\Debug\rouman_number.pdb
+E:\уроки\прога\visual studio\rouman_number\rouman_number\obj\Debug\rouman_number.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\rouman_number\rouman_number\obj\Debug\rouman_number.exe
+E:\уроки\прога\visual studio\rouman_number\rouman_number\obj\Debug\rouman_number.pdb

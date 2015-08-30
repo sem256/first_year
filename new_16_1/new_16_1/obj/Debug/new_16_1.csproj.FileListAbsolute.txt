@@ -1,0 +1,11 @@
+E:\уроки\прога\visual studio\new_16_1\new_16_1\bin\Debug\new_16_1.exe.config
+E:\уроки\прога\visual studio\new_16_1\new_16_1\bin\Debug\new_16_1.exe
+E:\уроки\прога\visual studio\new_16_1\new_16_1\bin\Debug\new_16_1.pdb
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.Form1.resources
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.Properties.Resources.resources
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.csproj.GenerateResource.Cache
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.exe
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.pdb
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.text_form.resources
+E:\уроки\прога\visual studio\new_16_1\new_16_1\obj\Debug\new_16_1.About_Form.resources

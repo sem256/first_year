@@ -1,0 +1,5 @@
+E:\уроки\прога\visual studio\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+E:\уроки\прога\visual studio\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+E:\уроки\прога\visual studio\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+E:\уроки\прога\visual studio\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+E:\уроки\прога\visual studio\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb

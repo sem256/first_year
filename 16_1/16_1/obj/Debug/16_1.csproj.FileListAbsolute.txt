@@ -1,0 +1,10 @@
+E:\уроки\прога\visual studio\16_1\16_1\bin\Debug\16_1.exe.config
+E:\уроки\прога\visual studio\16_1\16_1\bin\Debug\16_1.exe
+E:\уроки\прога\visual studio\16_1\16_1\bin\Debug\16_1.pdb
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\16_1.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\_16_1.AboutBox1.resources
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\_16_1.Sasha_Matvienko.resources
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\_16_1.Properties.Resources.resources
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\16_1.csproj.GenerateResource.Cache
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\16_1.exe
+E:\уроки\прога\visual studio\16_1\16_1\obj\Debug\16_1.pdb

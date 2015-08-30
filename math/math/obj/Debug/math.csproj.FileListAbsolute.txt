@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\math\math\bin\Debug\math.exe.config
+E:\уроки\прога\visual studio\math\math\bin\Debug\math.exe
+E:\уроки\прога\visual studio\math\math\bin\Debug\math.pdb
+E:\уроки\прога\visual studio\math\math\obj\Debug\math.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\math\math\obj\Debug\math.exe
+E:\уроки\прога\visual studio\math\math\obj\Debug\math.pdb

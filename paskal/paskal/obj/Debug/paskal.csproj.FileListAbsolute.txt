@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\paskal\paskal\bin\Debug\paskal.exe.config
+E:\уроки\прога\visual studio\paskal\paskal\bin\Debug\paskal.exe
+E:\уроки\прога\visual studio\paskal\paskal\bin\Debug\paskal.pdb
+E:\уроки\прога\visual studio\paskal\paskal\obj\Debug\paskal.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\paskal\paskal\obj\Debug\paskal.exe
+E:\уроки\прога\visual studio\paskal\paskal\obj\Debug\paskal.pdb

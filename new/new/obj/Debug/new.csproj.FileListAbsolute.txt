@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\new\new\bin\Debug\@new.exe.config
+E:\уроки\прога\visual studio\new\new\bin\Debug\@new.exe
+E:\уроки\прога\visual studio\new\new\bin\Debug\@new.pdb
+E:\уроки\прога\visual studio\new\new\obj\Debug\@new.exe
+E:\уроки\прога\visual studio\new\new\obj\Debug\@new.pdb
+E:\уроки\прога\visual studio\new\new\obj\Debug\new.csprojResolveAssemblyReference.cache

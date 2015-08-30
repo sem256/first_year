@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\year_1\year_1\bin\Debug\year_1.exe.config
+E:\уроки\прога\visual studio\year_1\year_1\bin\Debug\year_1.exe
+E:\уроки\прога\visual studio\year_1\year_1\bin\Debug\year_1.pdb
+E:\уроки\прога\visual studio\year_1\year_1\obj\Debug\year_1.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\year_1\year_1\obj\Debug\year_1.exe
+E:\уроки\прога\visual studio\year_1\year_1\obj\Debug\year_1.pdb

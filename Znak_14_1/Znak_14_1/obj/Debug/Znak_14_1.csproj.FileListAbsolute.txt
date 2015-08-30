@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\bin\Debug\Znak_14_1.exe.config
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\obj\Debug\Znak_14_1.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\bin\Debug\Znak_14_1.exe
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\bin\Debug\Znak_14_1.pdb
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\obj\Debug\Znak_14_1.exe
+E:\уроки\прога\visual studio\Znak_14_1\Znak_14_1\obj\Debug\Znak_14_1.pdb

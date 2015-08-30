@@ -1,0 +1,2 @@
+E:\уроки\прога\visual studio\labs_3\labs_3\bin\Debug\labs_3.exe.config
+E:\уроки\прога\visual studio\labs_3\labs_3\obj\Debug\labs_3.csprojResolveAssemblyReference.cache

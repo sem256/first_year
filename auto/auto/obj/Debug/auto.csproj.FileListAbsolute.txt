@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\auto\auto\bin\Debug\auto.exe.config
+E:\уроки\прога\visual studio\auto\auto\bin\Debug\auto.exe
+E:\уроки\прога\visual studio\auto\auto\bin\Debug\auto.pdb
+E:\уроки\прога\visual studio\auto\auto\obj\Debug\auto.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\auto\auto\obj\Debug\auto.exe
+E:\уроки\прога\visual studio\auto\auto\obj\Debug\auto.pdb

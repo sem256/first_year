@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\metod\metod\bin\Debug\metod.exe.config
+E:\уроки\прога\visual studio\metod\metod\bin\Debug\metod.exe
+E:\уроки\прога\visual studio\metod\metod\bin\Debug\metod.pdb
+E:\уроки\прога\visual studio\metod\metod\obj\Debug\metod.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\metod\metod\obj\Debug\metod.exe
+E:\уроки\прога\visual studio\metod\metod\obj\Debug\metod.pdb

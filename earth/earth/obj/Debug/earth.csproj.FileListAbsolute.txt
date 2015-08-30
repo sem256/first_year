@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\earth\earth\bin\Debug\earth.exe.config
+E:\уроки\прога\visual studio\earth\earth\bin\Debug\earth.exe
+E:\уроки\прога\visual studio\earth\earth\bin\Debug\earth.pdb
+E:\уроки\прога\visual studio\earth\earth\obj\Debug\earth.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\earth\earth\obj\Debug\earth.exe
+E:\уроки\прога\visual studio\earth\earth\obj\Debug\earth.pdb

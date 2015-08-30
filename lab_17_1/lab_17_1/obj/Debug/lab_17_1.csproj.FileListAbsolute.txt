@@ -1,0 +1,9 @@
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\bin\Debug\lab_17_1.exe.config
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\bin\Debug\lab_17_1.exe
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\bin\Debug\lab_17_1.pdb
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.Form1.resources
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.Properties.Resources.resources
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.csproj.GenerateResource.Cache
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.exe
+E:\уроки\прога\visual studio\lab_17_1\lab_17_1\obj\Debug\lab_17_1.pdb

@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\year\year\bin\Debug\year.exe.config
+E:\уроки\прога\visual studio\year\year\bin\Debug\year.exe
+E:\уроки\прога\visual studio\year\year\bin\Debug\year.pdb
+E:\уроки\прога\visual studio\year\year\obj\Debug\year.exe
+E:\уроки\прога\visual studio\year\year\obj\Debug\year.pdb
+E:\уроки\прога\visual studio\year\year\obj\Debug\year.csprojResolveAssemblyReference.cache

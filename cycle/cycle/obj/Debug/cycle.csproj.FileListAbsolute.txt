@@ -1,0 +1,6 @@
+E:\уроки\прога\visual studio\cycle\cycle\bin\Debug\cycle.exe.config
+E:\уроки\прога\visual studio\cycle\cycle\bin\Debug\cycle.exe
+E:\уроки\прога\visual studio\cycle\cycle\bin\Debug\cycle.pdb
+E:\уроки\прога\visual studio\cycle\cycle\obj\Debug\cycle.csprojResolveAssemblyReference.cache
+E:\уроки\прога\visual studio\cycle\cycle\obj\Debug\cycle.exe
+E:\уроки\прога\visual studio\cycle\cycle\obj\Debug\cycle.pdb
